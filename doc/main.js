@@ -33,3 +33,10 @@ var clearGallery = function(){
 var filterGalleryByKeyword =function(){
 
 }
+
+
+var container =document.querySelector('.gallery')
+var btn1 = document.getElementById('#bnt1')
+var btn2 = document.getElementById('#bnt2')
+
+
